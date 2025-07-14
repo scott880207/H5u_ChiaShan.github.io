@@ -40,8 +40,9 @@ body {
 }
 
 .profile-pic {
-    width: 100%;
+    width: 200%;
     height: auto;
+    transform: translate(-38%, -13%);
 }
 
 .left-column h3 {
